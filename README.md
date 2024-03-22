@@ -4,7 +4,7 @@
 *Testée sur la V19.0.1*
 
 
-## 1. Dépots du PDF
+## 1. Dépot du PDF
 
 Il faut mettre le fichier cgv.pdf dans /documents/mycompany
 
