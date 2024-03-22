@@ -11,18 +11,18 @@ Il faut mettre le fichier cgv.pdf dans /documents/mycompany
 ## 2. Utilisation des modèles
 
 Modification des modèles originaux :
-- pour les propales /htdocs/core/modules/propale/doc/pdf_cyan.modules.php
-- pour les factures /htdocs/core/modules/facture/doc/pdf_sponge.modules.php
+- pour les propales /htdocs/core/modules/propale/doc/pdf_cyan.modules.php  
+- pour les factures /htdocs/core/modules/facture/doc/pdf_sponge.modules.php  
 
 **Convention de nommage des modèles :**
 
 - Pour les propales : bleu
 - Pour les factures : concombre
 
-Une fois les CGV déposées dans le dossier comme indiqué au Chapitre 1, il faut déposer les modèles dans les dossier suivant :
+Une fois les CGV déposées dans le dossier comme indiqué au Chapitre 1, il faut déposer les modèles dans les dossiers suivants :
 
-pdf_bleu_cgv.modules.php => /htdocs/core/modules/propale/doc/
-pdf_concombre.modules.php => /htdocs/core/modules/facture/doc/
+- pdf_bleu_cgv.modules.php => /htdocs/core/modules/propale/doc/  
+- pdf_concombre.modules.php => /htdocs/core/modules/facture/doc/  
 
 Une fois les deux fichiers déposés, il faut les activer :
 
