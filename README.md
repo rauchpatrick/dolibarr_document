@@ -33,8 +33,9 @@ Les deux modèles sont modifiés de la même manière. Chaque ajout de code comm
 
 ## 3. Modification des modèles
 
-Ci-dessous se trouvent listées les modifications apportées aux modèles d'origines. Il est inutile de créer ces modifications si vous utilisez directement les deux modèles (bleu et concombre) fournis dans ce dépots. 
-Cette procédure est uniquement indiquée pour expliquer ce qui a été fait dans le code.
+Ci-dessous se trouvent listées les modifications apportées aux modèles d'origines. Il est inutile de créer ces modifications si vous utilisez directement les deux modèles (bleu et concombre) fournis dans ce dépot. 
+Cette procédure est uniquement indiquée pour expliquer ce qui a été fait dans le code.  
+
 **A. Ajout d'une variable**
 
 Dans la section public function __construct($db)  
